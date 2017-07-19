@@ -1,0 +1,354 @@
+Birla Sun Life Short Term Fund
+
+Average
+Average
+
+CCIL T Bill Liquidity
+Weight
+
+CCIL T Bill Liquidity Weight (%)
+
+Fund Performance Vs CCIL T Bill Liquidity Weight
+
+2007
+28.98
+13.03
+-
+1/51
+28.98
+25.58
+105.88
+1.50
+
+2008
+35.77
+23.44
+-
+9/54
+35.77
+29.12
+299.18
+2.11
+
+2009
+33.78
+-5.57
+-
+59/63
+36.44
+31.88
+518.75
+1.90
+
+2010
+35.08
+3.83
+-
+62/80
+35.08
+33.71
+448.41
+1.43
+
+HDFC
+LIC Housing Fin.
+Reliance Jio Infocomm
+GOI 7.68% 2023-12-15
+Power Finance Corp.
+GOI
+SIDBI
+Bajaj Finance
+HDFC
+Punjab State
+National Bank Agr. Rur. Devp
+Tata Capital Financial Services
+Tata Sons
+M&M Financial Services
+Reliance Jio Infocomm
+Indiabulls Housing Finance
+Power Finance Corp.
+HDFC
+Gujarat State
+GOI
+ONGC Petro Additions
+Vodafone Mobile Services
+Rural Electrification
+Power Finance Corp.
+Others
+
+Financial
+Financial
+Communication
+Sovereign
+Financial
+Sovereign
+Financial
+Financial
+Financial
+Others
+Financial
+Financial
+Financial
+Financial
+Communication
+Financial
+Financial
+Financial
+Others
+Sovereign
+Energy
+Communication
+Financial
+Financial
+Others
+
+Bonds/Debentures
+Debenture
+Debenture
+GOI Securities
+Bonds/Debentures
+Central Government Loan
+Bonds/Debentures
+Bonds/Debentures
+Debenture
+State Development Loan
+Debenture
+Debenture
+Debenture
+Debenture
+Debenture
+Bonds
+Bonds/Debentures
+Debenture
+State Development Loan
+Central Government Loan
+Debenture
+Debenture
+Bonds
+Bonds
+CBLO
+
+3.68
+3.01
+2.74
+2.50
+2.41
+2.21
+2.21
+2.13
+1.79
+1.50
+1.44
+1.42
+1.41
+1.40
+1.36
+1.34
+1.22
+1.20
+1.17
+1.15
+1.14
+1.14
+1.13
+1.13
+1.67
+
+186
+2.62
+3.00
+2.46
+AAA
+
+May 15, 2017, Portfolio related data as on April 30, 2017
+
+2011
+38.42
+9.53
+-
+10/87
+38.42
+35.09
+305.46
+0.25
+
+2017
+2016
+2015
+2014
+2013
+
+2012
+42.47
+10.55
+-
+28/90
+42.47
+38.46
+4552.08
+0.29
+
+2013
+46.05
+8.42
+-
+13/97
+46.05
+42.52
+5135.98
+0.25
+
+2014
+51.07
+10.91
+-
+-
+51.07
+46.07
+5426.29
+0.24
+
+2015
+55.61
+8.89
+-
+25/90
+55.61
+51.08
+9055.54
+0.24
+
+2016
+61.30
+10.24
+-
+31/84
+61.61
+55.65
+15990.69
+0.24
+
+2017
+62.79
+2.42
+-
+41/88
+-
+-
+17047.02
+-
+
+1.58
+2.29
+2.46
+2.49
+2.20
+
+-
+2.26
+1.68
+2.79
+2.52
+
+-
+3.16
+2.76
+2.12
+0.90
+
+2.42
+0.25
+0.56
+1.67
+2.94
+9.05
+9.14
+9.49
+9.53
+
+2.43
+0.23
+0.56
+1.64
+3.06
+8.94
+8.69
+9.03
+8.87
+
+41/88
+30/88
+41/88
+34/88
+50/88
+39/86
+33/84
+-
+-
+
+-
+2.17
+1.70
+3.09
+2.56
+
+CCIL All
+Sovereign
+Bond - TRI
+-0.01
+0.42
+0.70
+1.88
+-0.01
+10.35
+10.01
+11.75
+9.99
+
+18.301214
+66.02972346
+0.081082
+9.698456
+0.00
+0.00
+0.00
+5.889517
+0.00
+
+Debenture
+Bonds
+Bonds/Debentures
+State Development Loan
+Net Receivables
+Central Government Loan
+
+-
+10.24
+8.89
+10.91
+8.42
+
+CCIL T Bill
+Liquidity
+Weight
+1.37
+0.06
+0.18
+0.86
+1.88
+4.28
+4.69
+5.06
+5.24
+
+1.33
+3.40
+
+38.49
+17.96
+15.08
+11.63
+4.22
+4.18
+
+Volatility MeasurementsStandard DeviationSharpe RatioRisk Analysis% of AssetsTop Instrument Break-upTrailing Returns (%)Year-to-Date1-Week1-Month3-Month6-Month1-Year2-Year3-Year5-YearReturn less than 1-year are absolute and over 1 year are annualisedReturnRankFundCategoryFund/CatQuarterly Returns (%)Q1Q2Q3Q4YearCompanySectorInstruments% AssetsTop HoldingsTotal SecuritiesAvg Maturity (Yrs.)Avg Maturity 52 W High (Yrs.) Avg Maturity 52 W Low (Yrs.)Avg Credit RatingSOVAAAA1+AAA and BelowTerm DepositBill RediscountingCash EquivalentUnrated / Others% of AssetsCredit Rating Break-upPortfolio CharacteristicsReturns as on High   Medium  LowCredit QualityFUND STYLEHigh  Medium  LowInterest Rate Sensitivity  NAV (Rs)Total Return (%)+/-Rank (Fund/Category)52 Week High (Rs)52 Week Low (Rs)Net Assets (Rs.Cr)Expense Ratio (%)Rating:Risk:Return:HistoryFund(Rebased to 10,000)
